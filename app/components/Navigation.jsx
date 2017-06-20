@@ -9,7 +9,7 @@ var Navigation =React.createClass({
           <ul className="menu">
             <li className="menu-text">Timer App</li>
             <li><IndexLink to="/" activeClassName="active">Timer</IndexLink></li>
-            <li><Link to="/about" activeClassName="active">Countdown</Link></li>
+            <li><Link to="Countdown" activeClassName="active">Countdown</Link></li>
           </ul>
         </div>
         <div className="top-bar-right">
